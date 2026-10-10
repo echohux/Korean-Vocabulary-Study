@@ -23,7 +23,7 @@ const router = createBrowserRouter(
             ]
         }
     ],
-    { basename: '/Korean-Langurage-Study' }
+    { basename: import.meta.env.BASE_URL }
 );
 
 export default router;

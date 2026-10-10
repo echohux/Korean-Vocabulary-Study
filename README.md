@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-**[立即开始学习](https://echohux.github.io/Korean-Langurage-Study/)**
+**[立即开始学习](https://echohux.github.io/Korean-Vocabulary-Study/)**
 
 无需下载安装，也不需要配置开发环境。
 

@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/Korean-Langurage-Study/',
+    base: '/Korean-Vocabulary-Study/',
     plugins: [react()],
     resolve: {
         alias: {
